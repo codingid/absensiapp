@@ -3,7 +3,10 @@ channels:
 dependencies:
  - dlib
  - pip
+ - python
+ - pandas
  - pip:
+    - cmake
     - face-recognition
     - face-recognition-models
     - python-dateutil
